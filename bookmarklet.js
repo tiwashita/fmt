@@ -14,13 +14,13 @@
     }
 
     var urls = [
-        'https://raw.github.com/mino0123/Force.com-Metadata-Tool/master/lib/jquery-1.8.3.min.js',
-        'https://raw.github.com/mino0123/Force.com-Metadata-Tool/master/lib/JSZip/jszip.js',
-        'https://raw.github.com/mino0123/Force.com-Metadata-Tool/master/lib/JSZip/jszip-load.js',
-        'https://raw.github.com/mino0123/Force.com-Metadata-Tool/master/lib/JSZip/jszip-inflate.js',
-        'https://raw.github.com/mino0123/Force.com-Metadata-Tool/master/lib/JSZip/jszip-deflate.js',
-        'https://raw.github.com/mino0123/Force.com-Metadata-Tool/master/lib/Hogan.js/hogan-2.0.0.min.js',
-        'https://raw.github.com/mino0123/Force.com-Metadata-Tool/master/forcedotcommetadatatool.user.js'
+        'https://rawgithub.com/tiwashita/fmt/master/lib/jquery-1.8.3.min.js',
+        'https://rawgithub.com/tiwashita/fmt/master/lib/JSZip/jszip.js',
+        'https://rawgithub.com/tiwashita/fmt/master/lib/JSZip/jszip-load.js',
+        'https://rawgithub.com/tiwashita/fmt/master/lib/JSZip/jszip-inflate.js',
+        'https://rawgithub.com/tiwashita/fmt/master/lib/JSZip/jszip-deflate.js',
+        'https://rawgithub.com/tiwashita/fmt/master/lib/Hogan.js/hogan-2.0.0.min.js',
+        'https://rawgithub.com/tiwashita/fmt/master/forcedotcommetadatatool.user.js'
     ];
 
     var next = runMetadataTool;
